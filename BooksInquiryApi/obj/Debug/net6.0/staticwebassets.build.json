@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iWwfZxhpvaTQcoQFdkejshInLaIHqPq0k6fqjRLXHN0=",
+  "Source": "BooksInquiryApi",
+  "BasePath": "_content/BooksInquiryApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
